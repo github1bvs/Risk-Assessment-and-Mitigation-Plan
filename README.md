@@ -74,9 +74,9 @@ The Risk Assessment and Mitigation Plan project aims to identify, evaluate, and 
  
 ## Contributors
  
-- **Project Lead**: [Name](#)
-- **Risk Assessment Specialist**: [Name](#)
-- **Mitigation Planning Expert**: [Name](#)
+- **Project Lead**: [Venkata Swamy Bathala](#)
+- **Risk Assessment Specialist**: [Venkata Swamy Bathala](#)
+- **Mitigation Planning Expert**: [Venkata Swamy Bathala](#)
  
 ## License
  
